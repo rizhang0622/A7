@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "776251231826",
+    "project_id": "zhangrick-c9a3e",
+    "storage_bucket": "zhangrick-c9a3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776251231826:android:d6aaa54bc8c43ae187998b",
+        "android_client_info": {
+          "package_name": "com.example.zhangassignments"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD73e0_WUYwiOVTLRDCu3JPyHG19ftuPK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
