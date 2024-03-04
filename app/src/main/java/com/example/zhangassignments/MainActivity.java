@@ -21,6 +21,12 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        findViewById(R.id.main_btn_a7).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this, SigninActivity.class));
+            }
+        });
 
         findViewById(R.id.main_btn_about).setOnClickListener(new View.OnClickListener() {
             @Override

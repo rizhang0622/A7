@@ -34,6 +34,12 @@
             android:text="A6 At Your Service" />
 
         <Button
+            android:id="@+id/main_btn_a7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="A7 Stick It To 'Em" />
+
+        <Button
             android:id="@+id/main_btn_about"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
