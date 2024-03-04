@@ -20,7 +20,8 @@ public class SigninActivity extends AppCompatActivity {
         findViewById(R.id.signin_btn_signin).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                startActivity(new Intent(SigninActivity.this, A7Activity.class)
+                        .putExtra("username", usernameEt.getText().toString()));
             }
         });
     }
